@@ -1,1 +1,1 @@
-# cota-o
+# cotação
